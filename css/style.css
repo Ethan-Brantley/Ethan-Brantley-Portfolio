@@ -1,0 +1,41 @@
+body {
+
+    width: 100vw;
+    background: white;
+    color: black;
+
+}
+
+.dark-mode {
+
+    background:black;
+    color: white;
+
+}
+
+.bio-logo {
+
+    width: 75px;
+    height: 75px;
+    background-image: url("../images/EthanBrantleyLogo.png");
+    background-position: center;
+    background-size: cover;
+
+}
+
+.toggle {
+
+    position: absolute;
+    right: 0%;
+    bottom: 0%;
+
+    margin: 5px;
+    padding: 10px;
+
+    border: none;
+    border-radius: 20px;
+    background-color: black;
+    box-shadow: 0 4px 16px 0 black;
+    color: white;
+
+}
